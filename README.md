@@ -1,1 +1,1 @@
-# Typing-Assistant
+# Typing-Assistant ML Project
